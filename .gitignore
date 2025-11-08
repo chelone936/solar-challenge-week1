@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+*.env
+
+# Data
+data/
+*.csv
+
+# VSCode
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
