@@ -34,5 +34,3 @@ Push to GitHub — check **Actions** tab to confirm  CI Pipeline passes.
 └── README.md
 ```
 
-✅ **Author:** Your Name  
-📅 **Date:** November 2025
