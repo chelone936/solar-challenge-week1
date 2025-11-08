@@ -4,7 +4,7 @@
 
 ### Clone Repository
 ```bash
-git clone https://github.com/<chelone936/solar-challenge-week1.git
+git clone https://github.com/chelone936/solar-challenge-week1.git
 cd solar-challenge-week1
 ```
 
